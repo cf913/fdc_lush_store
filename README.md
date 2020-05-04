@@ -1,6 +1,8 @@
 # lushstore
 
-A new Flutter application.
+FDC: Flutter design challenge
+
+Design by Marina https://dribbble.com/shots/11270091-Lush-app
 
 ## Getting Started
 
